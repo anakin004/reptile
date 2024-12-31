@@ -7,7 +7,7 @@
 void APP::run (){
 
 
-    const int numJoints = 9;
+    const int numJoints = 7;
     const int SpineLen = 10;
     const int JointSize = 50;
 
