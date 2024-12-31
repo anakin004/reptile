@@ -15,7 +15,7 @@ normal normalize( double x, double y ){
     return {x/mag, y/mag};
 }
 
-//gets the refrence angle and does acos or atan or other based on quadrant on dat jawn
+//gets the refrence angle and does acos or atan 
 double getRot( double y, double x){  
     int quadPos=0;
 
